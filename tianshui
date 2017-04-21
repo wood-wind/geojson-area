@@ -1,0 +1,111 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "秦州区林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7159423828125,
+          34.58177909272355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "麦积区林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.89927673339844,
+          34.558597459864096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "秦安县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.66650390625,
+          34.85945392466103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "清水县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.13616943359375,
+          34.75458894128615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "张家川回族自治县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.20346069335938,
+          34.99006610485947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "甘谷县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.32936096191406,
+          34.75120397893155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "武山县"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.89814758300781,
+          34.727505358003015
+        ]
+      }
+    }
+  ]
+}
