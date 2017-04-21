@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "市林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.15828704833984,
+          36.55184468531712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "白银区林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.15828704833984,
+          36.53777773541221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "平川区林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.81231689453125,
+          36.72540164343274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "景泰县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.05906677246094,
+          37.18767264916781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "会宁县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.03684997558594,
+          35.69466760202847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "靖远县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.66743469238281,
+          36.56811502180857
+        ]
+      }
+    }
+  ]
+}
