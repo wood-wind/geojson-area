@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "市林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.59362030029297,
+          35.60511444362694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "安定区林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6176528930664,
+          35.57942961300803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "陇西县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.64614868164061,
+          35.00412828039513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "渭源县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.205322265625,
+          35.13226374917891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "漳县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4635009765625,
+          34.844239868225415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "通渭县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2435302734375,
+          35.20411123432418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "岷县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.02130126953125,
+          34.43636318093373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "临洮县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85581970214844,
+          35.38401179094873
+        ]
+      }
+    }
+  ]
+}
