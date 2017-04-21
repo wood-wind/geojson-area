@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "嘉峪关市林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.28849792480469,
+          39.77001973407519
+        ]
+      }
+    }
+  ]
+}
