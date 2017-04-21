@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "市林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7538070678711,
+          35.515740394479316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "崆峒区林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.65870666503906,
+          35.545915277509486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "泾川县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.35496520996094,
+          35.3308118573182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "华亭县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.62918090820312,
+          35.20467229285751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "静宁县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.72898864746094,
+          35.52384402383153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "灵台县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60679244995117,
+          35.068783155653904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "崇信县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.02237129211424,
+          35.30573974754855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "庄浪县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.03523254394531,
+          35.20467229285751
+        ]
+      }
+    }
+  ]
+}
