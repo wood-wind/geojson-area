@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "市林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.48625183105469,
+          39.73200992677891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "肃州区林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.51303100585938,
+          39.75946355801398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "玉门市林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.03811645507812,
+          40.286859051369504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "敦煌市林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.65065002441406,
+          40.13899044275822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "阿克塞哈萨克族自治县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.33324813842773,
+          39.632464940110566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "瓜州县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.79391479492188,
+          40.521107063700505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "肃北蒙古族自治县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.87621307373047,
+          39.5146359327835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "金塔县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.90716552734375,
+          39.97922477476731
+        ]
+      }
+    }
+  ]
+}
