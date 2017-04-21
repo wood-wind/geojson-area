@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "凉州区林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.66242980957031,
+          37.92903406232562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "古浪县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.89520263671875,
+          37.47812762872122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "民勤县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.09982299804688,
+          38.62545397209084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "天祝藏族自治县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.1393051147461,
+          36.97334683793738
+        ]
+      }
+    }
+  ]
+}
