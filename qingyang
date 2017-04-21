@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "市林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62962341308594,
+          35.710280295646456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "西峰区林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63992309570311,
+          35.73648044300146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "庆城县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.87818908691406,
+          36.00814512878406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "宁县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.91792869567871,
+          35.50372316239306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "镇原县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.19274520874023,
+          35.67598411258056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "环县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.30484008789061,
+          36.57142382346277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "华池县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.984619140625,
+          36.459673457262724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "合水县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.01362991333008,
+          35.8179523556811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "正宁县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.35678100585936,
+          35.48988714529842
+        ]
+      }
+    }
+  ]
+}
