@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "甘州区林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.45761108398438,
+          38.93911655592929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "临泽县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.16921997070312,
+          39.150297710716686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "高台县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.81903076171875,
+          39.37040245787161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "山丹县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.085205078125,
+          38.78620445725866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "民乐县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.82290649414062,
+          38.441757889396904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "肃南裕固族自治县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.61835861206055,
+          38.835562555638056
+        ]
+      }
+    }
+  ]
+}
