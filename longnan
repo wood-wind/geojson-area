@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "市林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.90776062011719,
+          33.39705230475205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "武都区林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.95925903320312,
+          33.37010472148162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "宕昌县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.39346313476562,
+          34.043556504127444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "礼县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.17623901367186,
+          34.18567785430489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "成县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.732421875,
+          33.74147082163694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "徽县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.08123779296874,
+          33.76830276093902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "文县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.6722412109375,
+          32.94760622243483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "康县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.60367584228516,
+          33.3313887984149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "西和县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.29708862304688,
+          34.01396527491264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "两当县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.30577087402344,
+          33.91059967853272
+        ]
+      }
+    }
+  ]
+}
