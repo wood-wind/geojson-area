@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "金川区林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.21542358398438,
+          38.5299046000139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "永昌县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.96823120117188,
+          38.24519096811476
+        ]
+      }
+    }
+  ]
+}
