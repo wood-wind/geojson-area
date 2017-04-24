@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "市林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.90756225585936,
+          34.978322337227844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "合作市林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.91090965270996,
+          35.00553436504395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "夏河县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.5251007080078,
+          35.20298910562885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "卓尼县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.50305557250977,
+          34.58941065487872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "临潭县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.35027694702148,
+          34.69646117272349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "碌曲县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.48682022094727,
+          34.58884537801345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "玛曲县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.07517623901367,
+          33.998525370515246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "迭部县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.21844100952148,
+          34.055219440766784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "舟曲县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.36153411865234,
+          33.783142353260104
+        ]
+      }
+    }
+  ]
+}
