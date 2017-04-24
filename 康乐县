@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "临夏市林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.22616577148438,
+          35.59701902776685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "积石山保安族东乡族撒拉族自治县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.86773681640625,
+          35.71362547506703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "永靖县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.28727722167969,
+          35.95188571009145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "临夏县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.98721313476562,
+          35.4925427272974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "东乡族自治县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.38357925415039,
+          35.66329357678096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "和政县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.35113525390625,
+          35.42738577011564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "广河县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.56124877929688,
+          35.485833719356805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "康乐县林业局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.70990753173827,
+          35.37687383634842
+        ]
+      }
+    }
+  ]
+}
